@@ -1,0 +1,14 @@
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\bin\Debug\net8.0\InterfaceAdminRestaurant.exe
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\bin\Debug\net8.0\InterfaceAdminRestaurant.deps.json
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\bin\Debug\net8.0\InterfaceAdminRestaurant.runtimeconfig.json
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\bin\Debug\net8.0\InterfaceAdminRestaurant.dll
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\bin\Debug\net8.0\InterfaceAdminRestaurant.pdb
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.AssemblyInfoInputs.cache
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.AssemblyInfo.cs
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.dll
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\refint\InterfaceAdminRestaurant.dll
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.pdb
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\InterfaceAdminRestaurant.genruntimeconfig.cache
+C:\Users\salah\Desktop\informatique B2 Q2\c#\Laboratoire\Projet\le code (projet c#)\InterfaceAdminRestaurant\InterfaceAdminRestaurant\obj\Debug\net8.0\ref\InterfaceAdminRestaurant.dll
